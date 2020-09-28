@@ -1,0 +1,91 @@
+.header{
+background-image : url('https://cdn.pixabay.com/photo/2016/11/29/05/45/astronomy-1867616__340.jpg');
+display : flex;
+justify-content: space-between;
+}
+
+.panda{
+    margin-left: 400px;
+
+color:black;
+}
+
+.panda-text{
+    margin-left: 400px;
+
+color:black;
+}
+
+.chameleon{
+    margin-left: 400px;
+
+color :black;
+}
+
+.chameleon-text{
+    margin-left: 400px;
+
+color:black;
+
+}
+
+.cicada{
+color:black;
+margin-left: 400px;
+
+}
+
+.cicada-text{
+    margin-left: 400px;
+
+color:black;
+}
+
+.pigeon{
+    margin-left: 400px;
+
+color:black;
+}
+
+.pigeon-text{
+    margin-left: 400px;
+
+color:black;
+}
+
+.teddy{
+    margin-left: 400px;
+
+color:black;
+}
+
+.teddy-text{
+    margin-left: 400px;
+
+color:black;
+}
+
+.camel{
+    margin-left: 400px;
+
+color:black;
+}
+
+.camel-text{
+margin-left: 400px;
+text-size-adjust: 100;
+color:black;
+}
+
+h1{
+text-align: center;
+margin-left: 450px;
+
+color :red;
+}
+
+body{
+
+color: black;
+}
+
